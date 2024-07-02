@@ -1,0 +1,179 @@
+/*
+Theme Name: IpsUSA
+Theme URI: 
+Author: Ipsusa
+Author URI: Ipsusa
+Description: 
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags:
+*/
+.blog-details-area .article-content a{
+    color: #2aade3;
+}
+ .accordion-content ul {
+    margin: 0px;
+    margin-bottom: 15px; 
+}
+.accordion-content ul li{
+    list-style-type: circle;
+    color: var(--optionalColor);
+font-size: var(--fontSize);
+}
+#popmake-5179 .cf7mls-btns{
+	display: none !important;
+}
+#popmake-5179 .cf7mls_progress_bar{
+	display: none !important;
+}
+#popmake-5179 .form-control {
+    margin-left: 70px;
+    height: 50px;
+    color: var(--blackColor);
+    -webkit-box-shadow: unset!important;
+    box-shadow: unset!important;
+    border: 1px solid #f5f5f5;
+    background-color: #f5f5f5;
+    -webkit-transition: var(--transition);
+    transition: var(--transition);
+    padding: 1px 0 0 15px;
+    font-size: 16px;
+    border-radius: 0px !important;
+    font-weight: 600;
+}
+#popmake-5179 .fieldset-cf7mls{
+	    padding-bottom: 0px !important;
+    margin-bottom: 0px !important;
+}
+.pum-content .popup-heading{
+	text-align: center;  
+	font-size: 50px;
+	margin-bottom: 20px;
+}
+.pum-content p{
+    text-align: center;
+    font-size: 17px;
+    font-weight: 500;
+    /* width: 70%; */
+    /* margin-left: 120px; */
+    margin-bottom: 15px;
+}
+#popmake-5179{
+	padding: 75px 30px;
+}
+#popmake-5179 .wpcf7-form{
+    border: 0 none;
+}
+#popmake-5179 .cf7mls_next.action-button {
+	background-color: #2aade3;
+    border: 0 none;
+    border-radius: 2px;
+    color: #ffffff;
+    font-size: 15px;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 5px 0px 22px !important;
+    padding: 12px 20px;
+    min-width: 100px;
+    position: absolute;
+}
+.pum-theme-614 .pum-container, .pum-theme-hello-box .pum-container {
+    padding: 30px;
+    border-radius: 10px !important;
+	border: 10px solid #4881ff !important;
+	box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.00 );
+	background-color: rgba( 255, 255, 255, 1.00 );
+}
+#popmake-5179 .cf7mls_back{
+	display: none !important;
+}
+#popmake-5179 .cf7mls_progress_bar_percent_wrap{
+	display: none !important;
+}
+.fieldset-cf7mls .web-form-submit{
+	position: absolute;
+    top: 0;
+    right: 170px;
+    border-radius: 0px !important;
+    padding: 14px 53px !important;
+    margin-top: 6px !important;
+}
+#popmake-5179 .cf7mls_back_fs{
+	display: none !important;
+}
+@media (max-width: 767px) {
+	.pum-content .popup-heading{
+		font-size: 30px !important;
+	}
+}
+@media (max-width: 767px){
+.pum-content p {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 500;
+    width: 100%;
+    margin-left: 0px;
+    margin-bottom: 10px;
+}
+}
+@media only screen and (max-width: 768px)
+{
+.cf7mls_number_step_wrap {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+	display: none;
+	}
+}
+@media (max-width: 767px){
+	#popmake-5179 .form-control {
+    margin-left: 0px !important;
+    height: 50px;
+    color: var(--blackColor);
+    -webkit-box-shadow: unset!important;
+    box-shadow: unset!important;
+    border: 1px solid #f5f5f5;
+    background-color: #f5f5f5;
+    -webkit-transition: var(--transition);
+    transition: var(--transition);
+    padding: 1px 0 0 15px;
+    font-size: 16px;
+    border-radius: 0px !important;
+    font-weight: 600;
+}
+}
+@media (max-width: 767px){
+	#popmake-5179 .cf7mls_next.action-button {
+    background-color: #2aade3;
+    border: 0 none;
+    border-radius: 2px;
+    color: #ffffff;
+    font-size: 15px;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 5px 0px 22px !important;
+    padding: 15px 20px;
+    min-width: 100px;
+	width: 100% !important;	
+    position: inherit !important;
+}
+}
+@media (max-width: 767px){
+	.fieldset-cf7mls .web-form-submit {
+		position: initial !important;
+		right: 170px;
+		border-radius: 0px !important;
+		padding: 14px 53px !important;
+		margin-top: 6px !important;
+	}
+}
+@media screen and (max-width: 767px){
+ 
+}
+.footer-bottom-area {
+    margin-top: 5px !important;
+    border-top: 1px solid #181726;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
