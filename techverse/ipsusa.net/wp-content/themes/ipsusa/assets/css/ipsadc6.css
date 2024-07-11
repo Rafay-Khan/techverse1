@@ -1721,12 +1721,16 @@ section.discover-businesss-costs ul.web-design-services li .inner span {white-sp
        padding-left: 46px;
 }
 .about-banner{
-	background-image: url('../img/about-banner.jpg');
+	background-image: url('../img/p.jpg');
 	background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
 }
 .contact-banner{
-	background-image: url('../img/contact-banner.jpg');
+	background-image: url('../img/j.jpg');
 	background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
 }
 .half-and-half {
     display: table;
